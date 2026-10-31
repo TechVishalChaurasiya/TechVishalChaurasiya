@@ -41,16 +41,21 @@ Welcome to my GitHub profile! I'm a B.Tech ECE student passionate about electron
 - GitHub: "My GitHub Profile" (https://github.com/TechVishalChaurasiya)
 
 ⭐ Thanks for visiting my profile!
-🛠️ Languages and Tools
-<h3>My Skills</h3>
+<h3>Technical Skills</h3>
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VLSI-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded_Systems-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PCB_Design-1565C0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git_%26_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
 
 
 
