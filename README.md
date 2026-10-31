@@ -55,16 +55,16 @@ Welcome to my GitHub profile! I'm a B.Tech ECE student passionate about electron
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/PCB_Design-1565C0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git_%26_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+
 <h2>📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechVishalChaurasiya&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechVishalChaurasiya&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=TechVishalChaurasiya&show_icons=true&theme=tokyonight" height="180"/>
 </p>
 
-
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TechVishalChaurasiya&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 
 
