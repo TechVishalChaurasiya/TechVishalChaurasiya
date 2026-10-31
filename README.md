@@ -41,3 +41,19 @@ Welcome to my GitHub profile! I'm a B.Tech ECE student passionate about electron
 - GitHub: "My GitHub Profile" (https://github.com/TechVishalChaurasiya)
 
 ⭐ Thanks for visiting my profile!
+🛠️ Languages and Tools
+
+"C" (https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+"C++" (https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+"Arduino" (https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+"ESP32" (https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+"MATLAB" (https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+
+
+
+
